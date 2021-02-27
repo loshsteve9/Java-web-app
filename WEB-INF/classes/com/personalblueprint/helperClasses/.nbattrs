@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="CF_Person.java">
+        <attr name="class_dependency_java.io.Serializable" stringvalue="CF_Person"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="CF_Person"/>
+    </fileobject>
+    <fileobject name="CF_Address.java">
+        <attr name="class_dependency_java.io.Serializable" stringvalue="CF_Address"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="CF_Address"/>
+    </fileobject>
+    <fileobject name="CF_ChartGenerator.java">
+        <attr name="class_dependency_java.io.Serializable" stringvalue="CF_ChartGenerator"/>
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" serialvalue="aced0005737200316f72672e6f70656e6964652e66696c6573797374656d732e4d756c746946696c654f626a65637424566f696456616c7565d9ec9c94d5fd3ca40c0000787077040000000078"/>
+        <attr name="NetBeansAttrArguments" serialvalue="aced0005757200135b4c6a6176612e6c616e672e537472696e673badd256e7e91d7b47020000787000000000"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="CF_ChartGenerator"/>
+    </fileobject>
+    <fileobject name="CF_Subscale.java">
+        <attr name="class_dependency_java.io.Serializable" stringvalue="CF_Subscale"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="CF_Subscale"/>
+    </fileobject>
+    <fileobject name="CF_ChartGenerator_1.java">
+        <attr name="class_dependency_java.io.Serializable" stringvalue="CF_ChartGenerator_1"/>
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" serialvalue="aced0005737200316f72672e6f70656e6964652e66696c6573797374656d732e4d756c746946696c654f626a65637424566f696456616c7565d9ec9c94d5fd3ca40c0000787077040000000178"/>
+        <attr name="NetBeansAttrArguments" serialvalue="aced0005757200135b4c6a6176612e6c616e672e537472696e673badd256e7e91d7b47020000787000000000"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="CF_ChartGenerator_1"/>
+    </fileobject>
+    <fileobject name="CF_Question.java">
+        <attr name="class_dependency_java.io.Serializable" stringvalue="CF_Question"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="CF_Question"/>
+    </fileobject>
+    <fileobject name="CF_Phone.java">
+        <attr name="class_dependency_java.io.Serializable" stringvalue="CF_Phone"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="CF_Phone"/>
+    </fileobject>
+    <fileobject name="CF_Props.java">
+        <attr name="template" serialvalue="aced0005737200316f72672e6f70656e6964652e66696c6573797374656d732e4d756c746946696c654f626a65637424566f696456616c7565d9ec9c94d5fd3ca40c0000787077040000000078"/>
+        <attr name="class_dependency_java.io.Serializable" serialvalue="aced0005737200316f72672e6f70656e6964652e66696c6573797374656d732e4d756c746946696c654f626a65637424566f696456616c7565d9ec9c94d5fd3ca40c0000787077040000000078"/>
+        <attr name="class_dependency_java.lang.Object" serialvalue="aced0005737200316f72672e6f70656e6964652e66696c6573797374656d732e4d756c746946696c654f626a65637424566f696456616c7565d9ec9c94d5fd3ca40c0000787077040000000078"/>
+    </fileobject>
+</attributes>

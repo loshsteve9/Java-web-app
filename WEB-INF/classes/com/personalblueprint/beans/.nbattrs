@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="CF_UserInfoBean.java">
+        <attr name="class_dependency_java.io.Serializable" stringvalue="CF_UserInfoBean"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="CF_UserInfoBean"/>
+    </fileobject>
+    <fileobject name="CF_TestManagerBean.java">
+        <attr name="class_dependency_java.io.Serializable" stringvalue="CF_TestManagerBean"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="CF_TestManagerBean"/>
+    </fileobject>
+    <fileobject name="CF_TestsTaken.java">
+        <attr name="class_dependency_java.io.Serializable" stringvalue="CF_TestsTaken"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="CF_TestsTaken"/>
+    </fileobject>
+    <fileobject name="CF_UsersBean.java">
+        <attr name="class_dependency_java.io.Serializable" stringvalue="CF_UsersBean"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="CF_UsersBean"/>
+    </fileobject>
+</attributes>

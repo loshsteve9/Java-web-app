@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="CF_ANetTransProfServlet.java">
+        <attr name="NbAttrURI" stringvalue="/servlet/com.wolfconsultinggroup.personalblueprint.servlets.CF_AuthorizeNetTransactionServlet"/>
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" stringvalue="CF_ANetTransProfServlet"/>
+        <attr name="org.netbeans.modules.web.IsServletFile" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="CF_BuildPbiTestResultList.java">
+        <attr name="template" serialvalue="aced0005737200316f72672e6f70656e6964652e66696c6573797374656d732e4d756c746946696c654f626a65637424566f696456616c7565d9ec9c94d5fd3ca40c0000787077040000000178"/>
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" stringvalue="CF_BuildPbiTestResultList"/>
+    </fileobject>
+    <fileobject name="CF_ANetTransOnlineServlet.java">
+        <attr name="NbAttrURI" stringvalue="/servlet/com.wolfconsultinggroup.personalblueprint.servlets.CF_ANetTransProfServlet_1"/>
+        <attr name="org.netbeans.modules.web.IsServletFile" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="CF_ControllerServlet.java">
+        <attr name="NbAttrURI" stringvalue="/servlet/com.wolfconsultinggroup.personalblueprint.servlets.CF_ControllerServlet"/>
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" stringvalue="CF_ControllerServlet"/>
+        <attr name="org.netbeans.modules.web.IsServletFile" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="CF_ManageUserServlet.java">
+        <attr name="NbAttrURI" stringvalue="/servlet/com.wolfconsultinggroup.personalblueprint.servlets.CF_ManageUserServlet"/>
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" stringvalue="CF_ManageUserServlet"/>
+        <attr name="org.netbeans.modules.web.IsServletFile" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="CF_LoginHandlerServlet.java">
+        <attr name="NbAttrURI" stringvalue="/servlet/com.wolfconsultinggroup.personalblueprint.servlets.CF_LoginHandlerServlet"/>
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" stringvalue="CF_LoginHandlerServlet"/>
+        <attr name="org.netbeans.modules.web.IsServletFile" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="CF_ModifyQuestions.java">
+        <attr name="NbAttrURI" stringvalue="/servlet/com.wolfconsultinggroup.personalblueprint.servlets.CF_ModifyQuestions"/>
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" stringvalue="CF_ModifyQuestions"/>
+        <attr name="org.netbeans.modules.web.IsServletFile" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="CF_ManageSubscalesServlet.java">
+        <attr name="NbAttrURI" stringvalue="/servlet/com.dunlopconsult.clayforeman.servlets.CF_ManageStatsServlet"/>
+        <attr name="NetBeansAttrExecutor" serialvalue="aced00057372001e6f72672e6f70656e6964652e53657276696365547970652448616e646c6564612acc871b81080300024c0009636c6173734e616d657400124c6a6176612f6c616e672f537472696e673b4c00046e616d6571007e000178707400154a3245452053657276657220457865637574696f6e74002d6f72672e6e65746265616e732e6d6f64756c65732e6a3265652e696d706c2e5365727665724578656375746f7278"/>
+        <attr name="NetBeansAttrDebuggerType" serialvalue="aced00057372001e6f72672e6f70656e6964652e53657276696365547970652448616e646c6564612acc871b81080300024c0009636c6173734e616d657400124c6a6176612f6c616e672f537472696e673b4c00046e616d6571007e000178707400154a3245452053657276657220446562756767696e677400316f72672e6e65746265616e732e6d6f64756c65732e6a3265652e696d706c2e53657276657244656275676765725479706578"/>
+        <attr name="org.netbeans.modules.web.IsServletFile" boolvalue="true"/>
+        <attr name="NbAttrExecParamsName" serialvalue="aced0005737200316f72672e6f70656e6964652e66696c6573797374656d732e4d756c746946696c654f626a65637424566f696456616c7565d9ec9c94d5fd3ca40c0000787077040000000078"/>
+        <attr name="template" serialvalue="aced0005737200316f72672e6f70656e6964652e66696c6573797374656d732e4d756c746946696c654f626a65637424566f696456616c7565d9ec9c94d5fd3ca40c0000787077040000000178"/>
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" stringvalue="CF_ManageSubscalesServlet"/>
+    </fileobject>
+    <fileobject name="CF_ManageSubscalesServlet_RedoAnswers.java">
+        <attr name="NbAttrURI" stringvalue="/servlet/com.wolfconsultinggroup.personalblueprint.servlets.CF_ManageSubscalesServlet_1"/>
+        <attr name="org.netbeans.modules.web.IsServletFile" boolvalue="true"/>
+        <attr name="NetBeansAttrDebuggerType" serialvalue="aced00057372001e6f72672e6f70656e6964652e53657276696365547970652448616e646c6564612acc871b81080300024c0009636c6173734e616d657400124c6a6176612f6c616e672f537472696e673b4c00046e616d6571007e000178707400154a3245452053657276657220446562756767696e677400316f72672e6e65746265616e732e6d6f64756c65732e6a3265652e696d706c2e53657276657244656275676765725479706578"/>
+        <attr name="NetBeansAttrExecutor" serialvalue="aced00057372001e6f72672e6f70656e6964652e53657276696365547970652448616e646c6564612acc871b81080300024c0009636c6173734e616d657400124c6a6176612f6c616e672f537472696e673b4c00046e616d6571007e000178707400154a3245452053657276657220457865637574696f6e74002d6f72672e6e65746265616e732e6d6f64756c65732e6a3265652e696d706c2e5365727665724578656375746f7278"/>
+        <attr name="NbAttrExecParamsName" serialvalue="aced0005737200316f72672e6f70656e6964652e66696c6573797374656d732e4d756c746946696c654f626a65637424566f696456616c7565d9ec9c94d5fd3ca40c0000787077040000000178"/>
+        <attr name="template" serialvalue="aced0005737200316f72672e6f70656e6964652e66696c6573797374656d732e4d756c746946696c654f626a65637424566f696456616c7565d9ec9c94d5fd3ca40c0000787077040000000278"/>
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" stringvalue="CF_ManageSubscalesServlet_RedoAnswers"/>
+    </fileobject>
+    <fileobject name="CF_TestServlet.java">
+        <attr name="NbAttrURI" stringvalue="/servlet/com.wolfconsultinggroup.personalblueprint.servlets.CF_TestServlet"/>
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" stringvalue="CF_TestServlet"/>
+        <attr name="org.netbeans.modules.web.IsServletFile" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="CF_StoreUserInfo.java">
+        <attr name="NbAttrURI" stringvalue="/servlet/com.wolfconsultinggroup.personalblueprint.servlets.CF_StoreUserInfo"/>
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" stringvalue="CF_StoreUserInfo"/>
+        <attr name="org.netbeans.modules.web.IsServletFile" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="CF_ShowResultsServlet.java">
+        <attr name="NbAttrURI" stringvalue="/servlet/com.wolfconsultinggroup.personalblueprint.servlets.CF_ShowResultsServlet"/>
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" stringvalue="CF_ShowResultsServlet"/>
+        <attr name="org.netbeans.modules.web.IsServletFile" boolvalue="true"/>
+    </fileobject>
+</attributes>
